@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spt_evil",
-    "path":"sprites/spt_evil/spt_evil.yy",
+    "name":"spr_evil",
+    "path":"sprites/spr_evil/spr_evil.yy",
   },
   "spriteMaskId":null,
   "visible":true,

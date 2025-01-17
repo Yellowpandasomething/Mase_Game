@@ -34,9 +34,9 @@ change_sprite_time = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 5EBD9A26
 /// @DnDArgument : "imageind" "1"
-/// @DnDArgument : "spriteind" "spt_panda_happy"
-/// @DnDSaveInfo : "spriteind" "spt_panda_happy"
-sprite_index = spt_panda_happy;
+/// @DnDArgument : "spriteind" "spr_panda_happy"
+/// @DnDSaveInfo : "spriteind" "spr_panda_happy"
+sprite_index = spr_panda_happy;
 image_index = 1;
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
@@ -54,3 +54,8 @@ change_sprite_time = floor(random_range(10, 30 + 1));
 /// @DnDArgument : "steps" "change_sprite_time"
 /// @DnDArgument : "alarm" "1"
 alarm_set(1, change_sprite_time);
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 6140BE2E
+__dnd_score = real(0);

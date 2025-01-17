@@ -19,9 +19,9 @@ if(panda_sprite == 2){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDHash : 1A9146E4
 	/// @DnDParent : 76A34E15
 	/// @DnDArgument : "imageind" "1"
-	/// @DnDArgument : "spriteind" "spt_panda_happy"
-	/// @DnDSaveInfo : "spriteind" "spt_panda_happy"
-	sprite_index = spt_panda_happy;
+	/// @DnDArgument : "spriteind" "spr_panda_happy"
+	/// @DnDSaveInfo : "spriteind" "spr_panda_happy"
+	sprite_index = spr_panda_happy;
 	image_index = 1;
 
 	/// @DnDAction : YoYo Games.Random.Get_Random_Number
@@ -52,9 +52,9 @@ if(panda_sprite == 1){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDHash : 4F3ECAB5
 	/// @DnDParent : 444346DE
 	/// @DnDArgument : "imageind" "1"
-	/// @DnDArgument : "spriteind" "spt_panda_sad"
-	/// @DnDSaveInfo : "spriteind" "spt_panda_sad"
-	sprite_index = spt_panda_sad;
+	/// @DnDArgument : "spriteind" "spr_panda_sad"
+	/// @DnDSaveInfo : "spriteind" "spr_panda_sad"
+	sprite_index = spr_panda_sad;
 	image_index = 1;
 
 	/// @DnDAction : YoYo Games.Random.Get_Random_Number
@@ -85,9 +85,9 @@ if(panda_sprite == 3){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDHash : 48692C52
 	/// @DnDParent : 40C90AFA
 	/// @DnDArgument : "imageind" "1"
-	/// @DnDArgument : "spriteind" "spt_panda_shocked"
-	/// @DnDSaveInfo : "spriteind" "spt_panda_shocked"
-	sprite_index = spt_panda_shocked;
+	/// @DnDArgument : "spriteind" "spr_panda_shocked"
+	/// @DnDSaveInfo : "spriteind" "spr_panda_shocked"
+	sprite_index = spr_panda_shocked;
 	image_index = 1;
 
 	/// @DnDAction : YoYo Games.Random.Get_Random_Number

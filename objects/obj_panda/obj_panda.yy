@@ -50,8 +50,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spt_panda_happy",
-    "path":"sprites/spt_panda_happy/spt_panda_happy.yy",
+    "name":"spr_panda_happy",
+    "path":"sprites/spr_panda_happy/spr_panda_happy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
