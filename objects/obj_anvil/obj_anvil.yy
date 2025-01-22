@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_end",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_panda","path":"objects/obj_panda/obj_panda.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_anvil",
+  "eventList":[],
   "managed":true,
-  "name":"obj_end",
+  "name":"obj_anvil",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_end",
-    "path":"sprites/spr_end/spr_end.yy",
+    "name":"spr_anvil",
+    "path":"sprites/spr_anvil/spr_anvil.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

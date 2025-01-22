@@ -5,6 +5,14 @@
 /// @DnDArgument : "score_relative" "1"
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;__dnd_score += real(1);
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3C1876B3
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "cat_score"
+cat_score += 1;
+
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 0AD7222E

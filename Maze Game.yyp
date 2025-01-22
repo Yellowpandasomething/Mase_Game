@@ -37,6 +37,7 @@
   "name":"Maze Game",
   "resources":[
     {"id":{"name":"fnt_text","path":"fonts/fnt_text/fnt_text.yy",},},
+    {"id":{"name":"obj_anvil","path":"objects/obj_anvil/obj_anvil.yy",},},
     {"id":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},},
     {"id":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},},
     {"id":{"name":"obj_evil","path":"objects/obj_evil/obj_evil.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"rm_win_normal","path":"rooms/rm_win_normal/rm_win_normal.yy",},},
     {"id":{"name":"rm_win_so_close","path":"rooms/rm_win_so_close/rm_win_so_close.yy",},},
     {"id":{"name":"rm_win_true","path":"rooms/rm_win_true/rm_win_true.yy",},},
+    {"id":{"name":"spr_anvil","path":"sprites/spr_anvil/spr_anvil.yy",},},
     {"id":{"name":"spr_cat","path":"sprites/spr_cat/spr_cat.yy",},},
     {"id":{"name":"spr_end","path":"sprites/spr_end/spr_end.yy",},},
     {"id":{"name":"spr_evil","path":"sprites/spr_evil/spr_evil.yy",},},
