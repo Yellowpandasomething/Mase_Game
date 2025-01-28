@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sightline_evil",
+  "%Name":"obj_anvil_top",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_sightline_evil",
+  "name":"obj_anvil_top",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_end",
-    "path":"sprites/spr_end/spr_end.yy",
+    "name":"spr_anvil",
+    "path":"sprites/spr_anvil/spr_anvil.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

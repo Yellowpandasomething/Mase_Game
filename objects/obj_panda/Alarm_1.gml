@@ -1,8 +1,6 @@
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1
 /// @DnDHash : 72845777
-/// @DnDBreak : 1
-
 /// @DnDArgument : "var" "panda_sprite"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "min" "1"
