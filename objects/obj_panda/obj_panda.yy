@@ -22,7 +22,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_sightline","path":"objects/obj_sightline/obj_sightline.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_sightline_evil","path":"objects/obj_sightline_evil/obj_sightline_evil.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_evil","path":"objects/obj_evil/obj_evil.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_anvil_bottom","path":"objects/obj_anvil_bottom/obj_anvil_bottom.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_anvil_anvil","path":"objects/obj_anvil_anvil/obj_anvil_anvil.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_panda",

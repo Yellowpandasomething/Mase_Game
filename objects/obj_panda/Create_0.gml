@@ -59,9 +59,3 @@ alarm_set(1, change_sprite_time);
 /// @DnDVersion : 1
 /// @DnDHash : 6140BE2E
 __dnd_score = real(0);
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 55265763
-/// @DnDArgument : "var" "cat_score"
-cat_score = 0;

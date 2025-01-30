@@ -11,7 +11,7 @@ has_met_cat = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 172D91C6
+/// @DnDHash : 04219A05
 /// @DnDApplyTo : all
 /// @DnDArgument : "var" "cat_score"
 with(all) {
